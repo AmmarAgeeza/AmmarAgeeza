@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Ageeza</h1>
 <h3 align="center">A Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Clean Architecture**
 
 - 🌱 I’m currently learning **Flutter Framework**
 
