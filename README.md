@@ -66,7 +66,7 @@
   </a>
      </a>
      <a href="https://t.me/ammarageeza">
-    <img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
