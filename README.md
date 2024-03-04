@@ -49,7 +49,7 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="[https://www.linkedin.com/in/ahmed-shalaby-21196521b/](https://www.linkedin.com/in/ammar-ageeza-9031891b8/)" target="_blank">
+    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     
