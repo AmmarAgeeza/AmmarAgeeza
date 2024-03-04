@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=2&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
 
 <br>
 <div align="center">
